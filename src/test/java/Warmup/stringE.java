@@ -1,12 +1,15 @@
 package Warmup;
 
-public class max1020 {
+public class stringE {
     public static void main(String[] args) {
-        max1020(10, 19);
+        stringE("Helloo");
     }
 
-    public static int max1020(int a, int b) {
-
+    public static boolean stringE(String str) {
+        int cnt = 0;
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == 'e') cnt++;
+        }
+        return (cnt >= 1 && cnt <= 3);
     }
-
 }
