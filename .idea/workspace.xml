@@ -13,10 +13,12 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/left2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/makeOutWord.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/makeTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/middleTwo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/nonStart.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/right2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/theEnd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/String1/withoutEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/withoutEnd2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
