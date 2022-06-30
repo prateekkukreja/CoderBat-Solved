@@ -5,7 +5,10 @@ public class middleTwo {
 //    The string length will be at least 2.
 //    middleTwo("string") → "ri"
     public static void main(String[] args) {
-
+        middleTwo("Practice");
     }
 
+    public static String middleTwo(String str) {
+        return str.substring(str.length() / 2 - 1, str.length() / 2 + 1);
+    }
 }
