@@ -5,53 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/backAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/close10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/delDel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/diff21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/endUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/firstLastSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/front22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/front3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/hasTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/icyHot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/in1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/in3050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/lastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/loneTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/makes10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/missingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/mixStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/monkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/nearHundred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/notString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/parrotTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/posNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/returnMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/sleepIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/startHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/startOz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/stringE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup/sumDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/altPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/array123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/array667.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/arrayCount9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/arrayFront9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/countXX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/doubleX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/last2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/noTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/stringBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/stringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/stringSplosion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/stringTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup2/stringX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/comboString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/extraEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/firstHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/firstTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/left2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/makeOutWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/makeTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/nonStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/right2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/theEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String1/withoutEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,16 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
