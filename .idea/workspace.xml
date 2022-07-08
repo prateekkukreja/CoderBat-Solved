@@ -8,8 +8,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/Array1/double23.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Array1/fix23.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Array1/makeLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array1/start1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Array1/start1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Array1/start1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
