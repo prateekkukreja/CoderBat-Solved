@@ -12,7 +12,8 @@ public class mapBully {
 //    and set the key "a" to have the value "". Basically "b" is a bully, taking the value and replacing it with the empty string.
 //    mapBully({"a": "candy", "b": "carrot", "c": "meh"}) → {"a": "", "b": "candy", "c": "meh"}
     public static void main(String[] args) {
-        Map<String, String> map = Stream.of(new String[][]{{"a", "candy"}, {"b", "carrot"}, {"c", "meh"},}).collect(Collectors.toMap(data -> data[0], data -> data[1]));
+        Map<String, String> map = Stream.of(new String[][]{{"a", "candy"}, {"b", "carrot"}, {"c", "meh"},})
+                .collect(Collectors.toMap(data -> data[0], data -> data[1]));
         System.out.println(mapBully(map));
     }
 
