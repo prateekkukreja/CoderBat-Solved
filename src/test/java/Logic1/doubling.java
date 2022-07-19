@@ -3,6 +3,7 @@ package Logic1;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class doubling {
     //    Given a list of integers, return a list where each integer is multiplied by 2.
@@ -16,8 +17,8 @@ public class doubling {
         nums.replaceAll(n -> n * 2);
         return nums;
     }
-
-//    / return nums.stream()
-    //  .map(n -> n * 2)
-    //  .collect(Collectors.toList());
+//        return nums.stream()
+//                .map(n -> n * 2)
+//                .collect(Collectors.toList());
+//    }
 }
