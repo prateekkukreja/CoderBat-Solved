@@ -16,4 +16,8 @@ public class doubling {
         nums.replaceAll(n -> n * 2);
         return nums;
     }
+
+//    / return nums.stream()
+    //  .map(n -> n * 2)
+    //  .collect(Collectors.toList());
 }
