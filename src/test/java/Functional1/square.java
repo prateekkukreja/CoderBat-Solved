@@ -1,4 +1,4 @@
-package Logic1;
+package Functional1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
