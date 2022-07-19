@@ -13,7 +13,7 @@ public class square {
     public static List<Integer> square(List<Integer> nums) {
         List<Integer> list = new ArrayList<>();
         nums.replaceAll(n -> n * n);
-        //return nums.stream().map(n -> n * n).collect(Collector.toList());
+//        return nums.stream().map(n -> n * n).collect(Collector.toList());
         return nums;
     }
 }
