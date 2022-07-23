@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scores100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scoresClump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scoresIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/answerCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/more20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/nearTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/old35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/teenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Logic1/less20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Logic1/less20.java" afterDir="false" />
-    </list>
+    <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
