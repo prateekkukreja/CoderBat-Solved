@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/copies3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/lower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/math1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/moreY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/noX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Functional1/rightDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/special11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/more20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Functional1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Functional1/addStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Logic1/doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Functional1/doubling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Logic1/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Functional1/square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
