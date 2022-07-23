@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scores100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scoresIncreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/answerCell.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/more20.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/nearTen.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Logic1/old35.java" afterDir="false" />
