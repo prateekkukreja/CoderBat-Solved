@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="" />
+    <list default="true" id="3461cdf0-2149-4f44-b6d8-7d129f58f3d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/AP1/scoresAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Functional1" />
-        <item itemvalue="Application.Functional1.square" />
         <item itemvalue="Application.Functional1.doubling" />
         <item itemvalue="Application.mapBully" />
         <item itemvalue="Application.makeLast" />
